@@ -49,7 +49,7 @@ void solve()
 			
     	}
     }
-    for(auto i : v1)
+    for(auto i:v1)
     {
     	v.pb(i);
     }
