@@ -68,7 +68,7 @@ void solve()
 }
 int main()
 {
-	ll t=1;
+	ll t;
 	cin>>t;
 	while(t--)
 	{
